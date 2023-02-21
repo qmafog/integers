@@ -201,7 +201,7 @@ If a compiler error or warning message is not clear, [review errors details](htt
 
 * C# Language Reference
   * [Integral numeric types](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)
-  * [return](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/return)
+  * [return](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/jump-statements#the-return-statement)
   * [throw](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/throw)
 * C# Programming Guide
   * [Constants](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constants)
