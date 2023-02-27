@@ -2,7 +2,7 @@
 
 ## Convert Numbers
 
-This tutorial shows how to use Visual Studio features for converting decimals to hexadecimal and binary numbers.
+This tutorial shows how to use Visual Studio features for converting decimals to hexadecimal and binary numbers. If you don't have enough knowledge in numeral systems, just google for [number system conversion articles](https://www.google.com/search?q=number+system+conversion) that show you how to convert numbers between numeral systems.
 
 
 ### Decimal to Hex
@@ -94,7 +94,7 @@ public static long ReturnLongInteger29()
 
 ![Immediate window](images/convert-to-binary-3.png)
 
-5. Add the code to the Immediate window. 
+5. Add the code to the Immediate window.
 
 ```cs
 Convert.ToString(result, 2)
